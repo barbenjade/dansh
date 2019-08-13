@@ -1,2 +1,2 @@
-Practice for JS and react to help with finances. 
+Practice for JS and react to help with finances and estimation. 
 
